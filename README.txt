@@ -4,5 +4,5 @@
 
 - 利用スクリプト
 
- * countryfilter.pl (python実行ファイル)
+ * countryfilter.pl (perl実行ファイル)
   - URL: http://www.42ch.net/~shutoff/
